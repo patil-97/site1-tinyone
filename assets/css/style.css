@@ -193,7 +193,7 @@ input:focus {
   color: blue;
   background-color: white;
   border-radius: 10px;
-  box-shadow: 0 0 20px 1px blue;
+  text-shadow: 2px 2px 50px blue;
 }
 
 /* ! footer links  */
